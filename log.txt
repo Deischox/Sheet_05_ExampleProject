@@ -1,0 +1,28 @@
+2,2,29,Granny Beagle
+1,1,5,Magica De Spell
+3,2,35,Madeline Mouse
+4,2,26,Mata Harrier
+5,1,13,Scrooge McDuck
+6,2,31,Ludwig Von Drake
+7,2,22,The Rhyming Man
+8,1,1,Granny Beagle
+9,2,28,Donna Duck
+10,2,23,Horace Horsecollar
+11,1,5,Huey, Dewey, and Louie
+12,2,27,Hustler Duck
+13,1,EOT
+14,2,EOT
+15,3,5,Magica De Spell
+16,4,37,Hustler Duck
+17,4,25,April, May, and June
+18,3,13,Scrooge McDuck
+19,3,1,Granny Beagle
+20,4,34,Hustler Duck
+21,4,26,Mata Harrier
+22,3,5,Huey, Dewey, and Louie
+23,4,29,Gladstone Gander
+24,3,EOT
+25,4,28,Melinda Mouse
+26,4,26,Minnie Mouse
+27,4,20,Baron Thieving
+28,4,EOT
